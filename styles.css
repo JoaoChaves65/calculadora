@@ -59,6 +59,7 @@ form .display input {
     flex: 1;
     box-shadow: none;
     font-size: 45px;
+    padding-right: 10px;
 }
 
 form input.equal {
